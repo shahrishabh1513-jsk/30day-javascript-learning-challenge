@@ -1,37 +1,38 @@
 # 🚀 30 Days of JavaScript
 
-This repository contains my **30 Days of JavaScript Challenge** where I practice JavaScript concepts daily and improve my web development skills.
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Progress](https://img.shields.io/badge/Progress-2%2F30%20Days-blue)
+![Status](https://img.shields.io/badge/Status-In%20Progress-success)
 
-The goal of this challenge is to build a strong foundation in **JavaScript fundamentals** through consistent daily learning.
+This repository documents my **30 Days of JavaScript Challenge** where I practice JavaScript every day to strengthen my **web development skills**.
 
 ---
 
-## 📚 Progress
+## 📚 Completed Days
 
-✅ Day 01 - Introduction  
-📁 `01_Day_Introduction`
+| Day | Topic | Folder |
+|----|------|------|
+| ✅ Day 01 | Introduction | `01_Day_Introduction` |
+| ✅ Day 02 | Data Types | `02_Day_Data_types` |
 
-✅ Day 02 - Data Types  
-📁 `02_Day_Data_types`
-
-More days coming soon...
+More days coming soon... 🚀
 
 ---
 
 ## 🛠 Tech Stack
 
-- JavaScript
-- HTML
-- VS Code
+⚡ JavaScript  
+🌐 HTML  
+💻 VS Code  
 
 ---
 
 ## 🎯 Goal
 
-- Learn JavaScript step by step
-- Practice coding daily
-- Build strong programming fundamentals
+- Build strong **JavaScript fundamentals**
+- Practice coding **daily**
+- Complete the **30-day challenge**
 
 ---
 
-⭐ Stay tuned as I continue completing the **30-day challenge**!
+⭐ If you like this journey, consider giving the repository a **star**!
