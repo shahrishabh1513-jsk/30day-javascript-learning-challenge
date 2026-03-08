@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🚀 30 Days of JavaScript
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
@@ -5,6 +7,14 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success)
 
 This repository documents my **30 Days of JavaScript Challenge** where I practice JavaScript every day to strengthen my **web development skills**.
+
+</div>
+
+---
+
+<p align="center">
+  Learn JavaScript step by step in 30 days 🚀
+</p>
 
 ---
 
@@ -36,3 +46,4 @@ More days coming soon... 🚀
 ---
 
 ⭐ If you like this journey, consider giving the repository a **star**!
+
