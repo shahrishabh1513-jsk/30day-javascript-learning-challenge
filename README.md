@@ -24,6 +24,7 @@ This repository documents my **30 Days of JavaScript Challenge** where I practic
 |----|------|------|
 | ✅ Day 01 | Introduction | `01_Day_Introduction` |
 | ✅ Day 02 | Data Types | `02_Day_Data_types` |
+| ✅ Day 03 | Booleans_operators_date | `03_Day_Booleans_operators_date` |
 
 More days coming soon... 🚀
 
