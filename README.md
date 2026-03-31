@@ -40,6 +40,8 @@ This repository documents my **30 Days of JavaScript Challenge** where I practic
 | ✅ Day 16 | JSON | `16_Day_JSON` |
 | ✅ Day 17 | Web Storage | `17_Day_Web_storage` |
 | ✅ Day 18 | Promises | `18_Day_Promises` |
+| ✅ Day 19 | Closures | `17_Day_Closures` |
+| ✅ Day 20 | Writing clean codes | `18_Day_Writing_clean_codes` |
 
 More days coming soon... 🚀
 
